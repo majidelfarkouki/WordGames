@@ -1,0 +1,25 @@
+{
+  "name": "jdm-server",
+  "version": "1.0.0",
+  "description": "Web server for jdm-app build in JavaScript for Node.js server",
+  "main": "jdm-server.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "iconv-lite": "^0.4.19",
+    "mkdirp": "^0.5.1",
+    "mongodb": "^3.0.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Abadie - Abdulhadi Allaham",
+  "license": "ISC"
+}
